@@ -1,11 +1,11 @@
 ---
 server:
-  port: 9081
+  port: 8000
 
 spring:
   profiles: dev
   application:
-    name: springcloud-client-9081
+    name: provider-user
 
 
 ---
